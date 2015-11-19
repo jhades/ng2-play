@@ -15,7 +15,5 @@ After completing installation type in your favourite shell:
 
 * `npm start` to start a "Hello World" app. App files are observed and will be re-transpiled on each change.
 
-To see the app, go to the following url:
-
-    http://localhost:8080
+A browser window opens automatically at http://localhost:8080
 
